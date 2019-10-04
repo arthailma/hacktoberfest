@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [artha ilma](https://github.com/arthailma)
+- Place: Kediri, Indonesia
+- Bio: Student and Web Developer
+- Github: [artha ilma](https://github.com/arthailma)
